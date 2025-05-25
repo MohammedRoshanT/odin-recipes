@@ -12,4 +12,4 @@ This is a project called "Recipe" in HTML from 'The Odin Project'
 
 ### Conclusion
 
-This project is madde in pure HTMl
+This project is made in pure HTML
