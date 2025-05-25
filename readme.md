@@ -6,4 +6,5 @@ This is a project called "Recipe" in HTML from 'The Odin Project'
 
 <ol>
     <li>Tandoori Chicken </li>
+    <li>Chicken Shawarma </li>
 </ol>
